@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- This line is for Icons -->
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+<!-- This line is for Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=wnghks7787&row=1)](https://github.com/ryo-ma/github-profile-trophy)
