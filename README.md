@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Education
+B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.)
+
 <!-- This line is for Icons -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wnghks7787/)
 
