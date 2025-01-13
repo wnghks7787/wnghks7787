@@ -14,12 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- This line is for Icons -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wnghks7787/)
 
 ### Education
 B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.)
 
-<!-- This line is for Icons -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wnghks7787/)
+
+### Awards
+2024년 KCC2024 학부생 논문 최우수상
+2022년 전국 대학생 알고리즘 경진대회 최우수상
+2022년 SW페스티벌 앱개발 부문 장려상
+2022년 대경권 프로그래밍 경진대회 장려상
+2021년 한동대학교 1학년 프로그래밍 경진대회 우수상
+
+### Papers
+
+
+### Experiences
+2019. 03. ~ 2025. 02. 한동대학교 전산전자공학부
+2021. 09. ~ 2024. 12. 슬기짜기 동아리
+2022. 08. ~ 2023. 07. 슬기짜기 회장 역임
+2023. 09. ~ 2024. 08. 한동대학교 전산전자공학부 임원단
 
 <!-- This line is for Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=wnghks7787&row=1)](https://github.com/ryo-ma/github-profile-trophy)
