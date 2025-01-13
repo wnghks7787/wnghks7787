@@ -33,7 +33,7 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 
 
 ### Experiences
-2025\. 01. ~ 2025. 02. UNIST WebSec 인턴
+2025\. 01. ~ 2025. 02. UNIST WebSec 인턴  
 2023\. 09. ~ 2024. 08. 한동대학교 전산전자공학부 임원단  
 2022\. 08. ~ 2023. 07. 슬기짜기 회장 역임  
 2021\. 09. ~ 2024. 12. 슬기짜기 동아리  
