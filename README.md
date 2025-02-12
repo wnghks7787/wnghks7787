@@ -23,7 +23,7 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 
 ### Awards
 
-2024년 KSC2024 학부생 논문 우수상
+2024년 KSC2024 학부생 논문 우수상  
 2024년 KCC2024 학부생 논문 최우수상  
 2022년 전국 대학생 알고리즘 경진대회 최우수상  
 2022년 SW페스티벌 앱개발 부문 장려상  
