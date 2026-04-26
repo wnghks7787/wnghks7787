@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Joohwan's Github Page 🙇🏻‍♂️
 
 <!--
 **wnghks7787/wnghks7787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- This line is for Icons -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/wnghks7787/)
+### 🔗 About Me
+<div align="center">
+
+[![baekjoon][baekjoon-shield]][baekjoon-url]
+[![github][github-shield]][github-url]
+[![Gmail][gmail-shield]][gmail-url]
+[![LeetCode][leetcode-shield]][leetcode-url]
+[![Tistory][tistory-shield]][tistory-url]
+</div>
+
+#### Language Use
+<div align="center">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
 ### 📚 Education
 M.S. in Computer Science and Engineering at UNIST (2025. 09. ~ ing)     
@@ -47,3 +66,20 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 
 <!-- This line is for Trophy -->
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=wnghks7787&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy&)
+
+
+<!-- This line is for dev stack icons -->
+[leetcode-shield]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
+[leetcode-url]: https://leetcode.com/u/wnghks7787/
+
+[baekjoon-shield]: https://img.shields.io/badge/Baekjoon-3070B4.svg?&style=for-the-badge&logo=DevBox&logoColor=white
+[baekjoon-url]: https://www.acmicpc.net/user/wnghks7787
+
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: a01047286436@gmail.com
+
+[tistory-shield]: https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white
+[tistory-url]: https://wnghks7787.tistory.com
+
+[github-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[github-url]: https://github.com/wnghks7787
