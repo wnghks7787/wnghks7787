@@ -76,7 +76,7 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 [baekjoon-url]: https://www.acmicpc.net/user/wnghks7787
 
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: a01047286436@gmail.com
+[gmail-url]: mailto:a01047286436@gmail.com
 
 [tistory-shield]: https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white
 [tistory-url]: https://wnghks7787.tistory.com
