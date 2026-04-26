@@ -46,4 +46,4 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 
 
 <!-- This line is for Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=wnghks7787&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=wnghks7787&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy&)
