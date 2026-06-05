@@ -43,7 +43,6 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 
 
 ### 🏆 Awards
-
 2025년 02월 KSC2024 학부생/주니어 논문 경진대회 우수상  
 2024년 07월 KCC2024 학부생/주니어 논문 경진대회 최우수상  
 2023년 11월 한동대학교 SW페스티벌 소프트웨어를 활용한 아이디어 공모전 부문 장려상    
@@ -57,9 +56,14 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 **서브워드 방식에 따른 한영 기계번역 성능 및 모델 크기 비교**, 한국정보과학회 2024 한국컴퓨터종합학술대회 논문집 [[paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862425)  
 
 ### 🧑‍💻 Experiences
+2026\. 03. ~ 한화비전 VEDA 4기  
 2025\. 09. ~ UNIST 컴퓨터공학과     
-2025\. 01. ~ 2025. 02. UNIST WebSec 인턴  
+2025\. 01. ~ 2025. 02. UNIST WebSec 인턴     
+2024\. 09. ~ 2024. 12. Discrete Mathematics TA  
+2024\. 03. ~ 2024. 06. JAVA Programming TA  
 2023\. 09. ~ 2024. 08. 한동대학교 전산전자공학부 임원단  
+2023\. 09. ~ 2023. 12. Discrete Mathematics TA  
+2023\. 07. ~ 2025. 02. 한동대학교 MILAB     
 2022\. 08. ~ 2023. 07. 슬기짜기 동아리 회장  
 2021\. 09. ~ 2024. 12. 슬기짜기 동아리  
 2019\. 03. ~ 2025. 02. 한동대학교 전산전자공학부  
