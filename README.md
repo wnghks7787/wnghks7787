@@ -35,7 +35,22 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### Skills
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-ffffff?style=for-the-badge&logo=qt&logoColor=41CD52)
+<!-- docker
+stm
+git
+github -->
+
+
 </div>
+
+### 💼 Career
+2026\. 09. ~ 에스엘 전장SW설계팀 엔지니어
+
+
 
 ### 📚 Education
 M.S. in Computer Science and Engineering at UNIST (2025. 09. ~ ing)     
@@ -57,7 +72,7 @@ B.S. in AI·Computer Science at Handong Global University (2019. 02. ~ 2025. 02.
 **서브워드 방식에 따른 한영 기계번역 성능 및 모델 크기 비교**, 한국정보과학회 2024 한국컴퓨터종합학술대회 논문집 [[paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862425)  
 
 ### 🧑‍💻 Experiences
-2026\. 03. ~ 한화비전 VEDA 4기  
+2026\. 03. ~ 2026. 08. 한화비전 VEDA 4기  
 2025\. 09. ~ UNIST 컴퓨터공학과     
 2025\. 01. ~ 2025. 02. UNIST WebSec 인턴     
 2024\. 09. ~ 2024. 12. Discrete Mathematics TA  
